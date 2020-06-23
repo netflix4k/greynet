@@ -28,4 +28,4 @@ Current Website. is https://www.flixer.me/auth/register?code=7Sr5 ,If it blocked
 
 
 
-国内看Netflix、在国内看Netflix、在国内使用Netflix、Netflix、网飞、国内看网飞、奈飞、国内看奈飞、在国内看TVB、HBO、在国内看HBO、HBO NOW、HBO GO、国内看HBO GO、Hulu、在国内看Hulu、Sling TV、DirecTV NOW
+国内看Netflix、在国内看Netflix、在国内使用Netflix、Netflix、网飞、国内看网飞、奈飞、国内看奈飞、在国内看TVB、HBO、在国内看HBO、HBO NOW、HBO GO、国内看HBO GO、Hulu、在国内看Hulu、Sling TV、DirecTV NOW、国内看Disney+,disney+解锁,disney+代理服务
