@@ -1,8 +1,8 @@
 奈飞客netflixer，(原灰网加速GreyNET) 为防止不可控因素干扰大家正常使用，特在Github开设此页面。持续为大家提供奈飞加速4K服务。
 
-当前网址为:https://www.flixer.me/auth/register?code=7Sr5   2019.11.29   
+当前网址为:https://www.flixer.club/auth/register?code=7Sr5   2019.11.29   
 
-Current Website. is https://www.flixer.me/auth/register?code=7Sr5 ,If it blocked ,we'll publish a new website.
+Current Website. is https://www.flixer.club/auth/register?code=7Sr5 ,If it blocked ,we'll publish a new website.
 
 
 <p><p><p><p><p><p><p><p><p>
