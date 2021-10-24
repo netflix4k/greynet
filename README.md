@@ -3,7 +3,7 @@
 
 当前网址为:  https://www.flixer.club 2021.10.07 
 
-Current Website. is https://www.flixer.pro/  or www.flixer.club  If it blocked ,we'll publish a new Domain.
+Current Website. is https://www.flixer.club/  or www.flixer.pro  If it blocked ,we'll publish a new Domain.
 
 
 <p><p><p><p><p><p><p><p><p>
