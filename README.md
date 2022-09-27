@@ -1,8 +1,8 @@
 奈飞客netflixer，(原灰网加速GreyNET) 为防止不可控因素干扰大家正常使用，特在Github开设此页面。持续为大家提供奈飞加速4K服务。
 
 
-主网站已关闭注册:  https://www.flixer.club 2021.10.07 
-只有通过前置的网站 www.flixer.me 进行审核登陆
+主网站已对新用户关闭注册:  https://www.flixer.club 2021.10.07 
+只有通过前置网站 www.flixer.me 进行审核注册
 
 
 
