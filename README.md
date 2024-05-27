@@ -3,7 +3,7 @@
 
 主网站只能通过老用户邀请注册
 
-www.flixer.me
+www.flixer8.com
 
 
 
