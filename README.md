@@ -1,2 +1,3 @@
 永久域名
-      www.newnetflix.xyz
+      www.newnetflix.xyz  老用户登录
+      streamup.gitlab.io  新用户登录
